@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @sadhvikreddy
 - 👀 I’m interested in people and environment
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 Artificial intelligence Masters degree holder
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me sadhvikreddy1997@gmail.com
+
+
+- 📫 How to reach me 
+-  Email: sadhvikreddy1997@gmail.com
+-  Phone: +44 7825091717
+-  Instagram: @nenu.sadhvik
 
 Website developed by me: 
   parisaramitra.com
