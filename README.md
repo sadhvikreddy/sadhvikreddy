@@ -2,6 +2,7 @@
 - 👀 I’m interested in people and environment
 - 🌱 Artificial intelligence Masters degree holder
 - 💞️ I’m looking to collaborate on anything
+- Full stack developer and A.I specialist
 
 
 - 📫 How to reach me 
