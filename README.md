@@ -8,7 +8,6 @@
 - 📫 How to reach me 
 -  Email: sadhvikreddy1997@gmail.com
 -  Phone: +44 7825091717
--  Instagram: @nenu.sadhvik
 
 <!---
 sadhvikreddy/sadhvikreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
